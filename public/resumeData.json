@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "KATUMBA ACRAM",
+    "occupation": "SOFTWARE DEVELOPER",
+    "description": "Junior React Developer",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "Instant replies",
+    "email": "acrameinstein@gmail.com",
+    "phone": "+256 773897985",
+    "address": {
+      "street": "",
+      "city": "Kampala",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1UrYyuRF6mH2GzkpegS5-U9WYKC7AB9kM/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Kacram21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+
+  
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Makerere University - UG",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Jan 2023",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "acrammedaiug",
+        "title": "C.E.O",
+        "years": "December 2018 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+     
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "News App (React JS)",
+        "category": "",
+        "image": "newsapp.png",
+        "url": "https://group23-project.vercel.app/"
+      },
+      {
+        "title": "AMAZON 2.0 REACT JS CHALLENGE",
+        "category": "",
+        "image": "AM2.png",
+        "url": "https://amazon-react-js-challenge-day-2-cjny17ekp-kacram21.vercel.app/"
+      },
+      {
+        "title": " ",
+        "category": "",
+        "image": "",
+        "url": " "
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Acram is a determined and team leader, I would definitely recommend",
+        "user": "Muwonge Lawrence"
+      },
+      {
+        "text": "Learning with Acram has been AWESOME",
+        "user": "Chambaga Abdul"
+      }
+    ]
+  }
+}
